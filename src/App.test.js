@@ -1,3 +1,5 @@
+/* global expect, test */
+/* eslint no-undef: "error" */
 import { render, screen } from '@testing-library/react';
 import App from './App';
 
